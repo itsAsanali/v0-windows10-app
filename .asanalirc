@@ -1,1 +1,7 @@
-{"name":"v0-windows10-app","author":"itsAsanali","language":"html","license":"none","encoding":"UTF-8"}
+{
+    "name": "v0-windows10-app",
+    "author": "asanaIi",
+    "language": "html",
+    "license": "none",
+    "encoding": "UTF-8"
+}
